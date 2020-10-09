@@ -2,10 +2,10 @@ const Twit = require('twit')
 const franc = require('franc')
 const fs = require('fs')
 
-const apikey = '8OV6zDwrfVp49L3DHMgCvXLyw'
-const apiSecretKey = '7A2ZFUgeKNOgC5m5VQNtFmvrRLfodlDyVumeJGnZFLl7y9YwJp'
-const accessToken = '1309114298464075781-sYsoDKmRR5mP9TmpqVTvyyNIpfs3UN'
-const accessTokenSecret = 'yuOx08QdDrnKIC4tkfco5DzIy2Av6ppPaqfIZhmA3NlAD'
+const apikey = 'xxxxxxxxxx'
+const apiSecretKey = 'xxxxxxxxxxxxxxx'
+const accessToken = 'xxxxxxxxxxxxxxxxxxxxxx'
+const accessTokenSecret = 'xxxxxxxxxxxxxxxxxxxx'
 
 var T = new Twit({
   consumer_key:         apikey,
